@@ -1,1 +1,1 @@
-[TextEditor](https://morepozitiva.github.io/texteditor/)
+[TextEditor](https://morepozitiva.github.io/texteditor/){:target="_blank"}
